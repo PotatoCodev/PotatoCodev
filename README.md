@@ -1,7 +1,8 @@
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFnMHgxMm9sZ3pyZ3I2cHE5eGo0aHhmZDl1Y2k1YjF3eW54d3JycCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lIzAEoZEn571u/giphy.gif" width="400">
 
 
-🌸My name is Jasmine!🌸 
+🌸My name is Jasmine!🌸
+
 I come from 🇨🇦 , but I live in California! 🌴
 
 I'm a computer science student currently exploring different areas of programming. Right now I'm focused on building my fundamentals, improving my problem-solving skills, and getting comfortable with real-world coding assessments. 
